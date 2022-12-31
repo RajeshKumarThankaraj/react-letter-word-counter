@@ -1,3 +1,3 @@
 # Project Output
 
-![Screenshot 2022-12-31 at 11 59 28 PM](https://user-images.githubusercontent.com/8217535/210152665-ccfdf491-7a74-4ea6-8557-5c9bc3a68a8a.png)
+![Screenshot 2023-01-01 at 12 00 42 AM](https://user-images.githubusercontent.com/8217535/210152693-6b7a60f0-7667-4a80-88b5-a18c36d27736.png)
